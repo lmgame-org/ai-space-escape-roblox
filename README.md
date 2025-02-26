@@ -1,8 +1,8 @@
 # game-arena-space
-Hello! This is a minimal backbone code implementation for a GameArena project.
+This is a minimal backbone code implementation for a GameArena project.
 It's set in a space station where the user is trying to escape a self-destruction.
 
-Here is the link to the game: https://www.roblox.com/games/106475035378377/GameArena-Space-Prototype
+Here is the link to the game: https://www.roblox.com/games/114904064694961/AI-Space-Escape
 
 # Setup
 You need Rojo in order to use this codebase. Rojo is a Roblox Development plugin that enables you to sync code from your file system (which has Git/GitHub version control) into RobloxStudio. **This is a typically a one-way sync.**
